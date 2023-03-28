@@ -24,6 +24,9 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(penguinclassify)
+
+classify_penguin(100,50)
+#> [1] "Chinstrap"
 ## basic example code
 ```
 
